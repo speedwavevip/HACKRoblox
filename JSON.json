@@ -1,0 +1,17 @@
+{
+  "moduleName": "Knicks",
+  "rbxhttp": false,
+  "script": "dtc.schedule(game:HttpGet(\"https://raw.githubusercontent.com/speedwavevip/Main/refs/heads/main/Games.lua\"))",
+  "versionName": "1.0.0",
+  "roblox_versionAPK": "2.684.688",
+  "Keysystem": true,
+  "ApkLink": {
+    "32": "",
+    "64": "",
+    "vng": {
+      "32": "",
+      "64": ""
+    }
+  },
+  "invite_Telegram": "https://t.me/SPEED_WAVE"
+}
