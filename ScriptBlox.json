@@ -1,0 +1,14 @@
+{
+  "result": {
+    "scripts": [
+      {
+        "title": "...",
+        "game": {
+          "imageUrl": "..."
+        },
+        "views": number,
+        "createdAt": "..."
+      }
+    ]
+  }
+}
